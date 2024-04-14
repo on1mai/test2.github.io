@@ -1,7 +1,7 @@
 const PreCache = [
-  '/images/taichi.png',
+  '/images/taichi_1.png',
   '/images/banner.jpg',
-  '/images/taichi-fill.png',
+  '/images/taichi-fill_1.png',
   '/css/loader.css',
   '/css/style.css',
   '/js/script.js'
